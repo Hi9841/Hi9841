@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hi9841
 - 👀 I’m interested in creating projects
-- 🌱 I’m currently learning batch script
+- 🌱 I’m currently expanding my business
 - 📫 How to reach me? disocrd Hi9841#5123
 
 
