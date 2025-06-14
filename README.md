@@ -5,7 +5,7 @@
 ⚡ Focused on performance, clean UI/UX, and practical results.
 
 ### 📬 Contact
-- Discord: `Hi9841`
+- Discord: `Hi9841.`
 - Discord Server: [Join Here](https://discord.gg/TamrVgRBE4)
 
 ---
