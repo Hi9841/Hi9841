@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi9841&label=Profile%20views&color=0e75b6&style=flat" alt="hi9841" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **anything**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hitweaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hitweaks" height="30" width="40" /></a>
