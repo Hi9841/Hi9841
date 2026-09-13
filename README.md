@@ -22,10 +22,38 @@ I like software that starts quickly, stays out of the way, and solves a real pro
 
 ## Current toolbox
 
-<p>
+### Native and desktop
+
+<p align="left">
   <img
-    src="https://skillicons.dev/icons?i=rust,ts,react,solidjs,tauri,py,kubernetes,terraform,aws&perline=9"
-    alt="Rust, TypeScript, React, SolidJS, Tauri, Python, Kubernetes, Terraform, and AWS"
+    src="https://skillicons.dev/icons?i=rust,tauri,cs,dotnet,windows,powershell&perline=6"
+    alt="Rust, Tauri, C#, .NET, Windows, and PowerShell"
+  />
+  <a href="https://github.com/zed-industries/zed/tree/main/crates/gpui">
+    <img
+      src="https://raw.githubusercontent.com/zed-industries/zed/main/assets/images/zed_logo.svg"
+      width="48"
+      height="48"
+      alt="GPUI"
+    />
+  </a>
+</p>
+
+### Web and product
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,solidjs,tailwind,vite,bun&perline=8"
+    alt="TypeScript, React, Next.js, Astro, SolidJS, Tailwind CSS, Vite, and Bun"
+  />
+</p>
+
+### Mobile, cloud, and data
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=kotlin,androidstudio,py,docker,kubernetes,aws,postgres,supabase,githubactions&perline=9"
+    alt="Kotlin, Android Studio, Python, Docker, Kubernetes, AWS, PostgreSQL, Supabase, and GitHub Actions"
   />
 </p>
 
