@@ -1,11 +1,29 @@
-<h1 align="center">Hi 👋, I'm Hi9841</h1>
-<h3 align="center">AI Applied Engineer</h3>
+<h1 align="center">Hi, I'm Hi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hi9841&label=Profile%20views&color=0e75b6&style=flat" alt="hi9841" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hi9841s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hitweaks" height="30" width="40" /></a>
+<p align="center">
+  Applied AI and systems engineer building fast, practical software for Windows.
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p align="center">
+  <a href="https://github.com/Hi9841/Prism">Prism</a> ·
+  <a href="https://github.com/Hi9841/HyperType">HyperType</a> ·
+  <a href="https://twitter.com/hi9841s">X</a>
+</p>
+
+## What I'm building
+
+- **[Prism](https://github.com/Hi9841/Prism)** is a keyboard-first command palette and Windows taskbar companion. It searches apps, files, and folders, and gives you direct control over the Windows 11 taskbar.
+- **[HyperType](https://github.com/Hi9841/HyperType)** is a native text expander for Windows. Its event-driven Rust core expands snippets in under 1 ms while using about 16 MB of memory at idle.
+- **[Kubernetes-SP](https://github.com/Hi9841/Kubernetes-SP)** is a production-style status page stack on AWS, built with Kubernetes, Terraform, ArgoCD, Django, PostgreSQL, and Redis.
+
+## How I work
+
+I like software that starts quickly, stays out of the way, and solves a real problem. My recent work combines native Rust services with focused TypeScript interfaces, measured performance, and release automation.
+
+## Current toolbox
+
+`Rust` · `TypeScript` · `React` · `SolidJS` · `Tauri` · `Python` · `Kubernetes` · `Terraform` · `AWS`
+
+## Say hello
+
+Open an issue in one of my repositories or find me on **[X](https://twitter.com/hi9841s)**. Feedback, bug reports, and thoughtful collaboration are welcome.
