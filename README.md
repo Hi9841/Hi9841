@@ -22,7 +22,12 @@ I like software that starts quickly, stays out of the way, and solves a real pro
 
 ## Current toolbox
 
-`Rust` · `TypeScript` · `React` · `SolidJS` · `Tauri` · `Python` · `Kubernetes` · `Terraform` · `AWS`
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=rust,ts,react,solidjs,tauri,py,kubernetes,terraform,aws&perline=9"
+    alt="Rust, TypeScript, React, SolidJS, Tauri, Python, Kubernetes, Terraform, and AWS"
+  />
+</p>
 
 ## Say hello
 
