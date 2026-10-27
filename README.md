@@ -33,28 +33,6 @@
 - **[Design-Helpers](https://github.com/Hi9841/Design-Helpers)** is a map of component libraries. The desktop track is GPUI Kit.
 - **issue-agent** reads an open GitHub issue. It writes a brief, and then it runs a blind review. That repository is private.
 
-## In progress
-
-These repositories are private.
-
-- **DeSys** is a daily system-design trainer for Android and iOS. The app uses Kotlin Multiplatform and Compose Multiplatform. One Cloudflare Worker sends new lessons.
-- **Celadon** is a GPU-drawn UI for C# and C++ desktop apps. There is no XAML, WinUI, or WPF. Windows is the tested platform.
-- **Designdock** is a desktop app for design files that Claude writes over MCP. The app uses Zig and nanoui.
-- **Paperdraw** is a Windows drawing app. It uses Rust, Direct2D, and the freedraw format.
-- **Sprout** is an Android app for daily promises. It uses Kotlin and Jetpack Compose. The journal stays on the phone.
-- **TDT Keyboard** is an Android keyboard. You speak, and Parakeet types into the text field.
-- **CalSnap** turns a message or a picture into a calendar event.
-- **MathBlitz** is math practice in Expo and React Native.
-- **Socratica** is a study workspace for flashcards, notes, summaries, and practice. It uses TypeScript and Supabase.
-- **Hi Optimizations** is a Next.js site.
-- The portfolio site uses Astro, small React islands, and a Cloudflare Worker.
-
-## Earlier systems work
-
-- **[WinSible](https://github.com/Hi9841/Winsible)** applies a Windows configuration from JSON. It is PowerShell, and it has no Python dependency.
-- **[Kubernetes-SP](https://github.com/Hi9841/Kubernetes-SP)** is a status page on a kubeadm cluster on AWS. The stack is Terraform, Argo CD, Django, PostgreSQL, and Redis.
-- **[CBM](https://github.com/Hi9841/CBM)** is a .NET clipboard manager with region capture.
-
 ## How I work
 
 I build software that starts quickly and stays out of the way. The hot path is native Rust, or a small runtime with no web view. A web UI opens only when a person must edit something. I measure idle memory, latency, and binary size, and I keep that record in the project.
